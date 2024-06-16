@@ -1,4 +1,8 @@
+# Ergänzung von Marius
 
+Das Finale Model ist Final_Model.py und könnte z.B. mit `python Final_Model.py --mode=train` aufgerufen werden.
+Ist das Training abgeschlossen, wird das Modell gespeichert und der Pfad zum Modell kann beim aufrufen als flag mitgegeben werden.
+z.B. so : `python Final_Model.py --mode=eval --model_path=./2024-06-15_16-42-12`
 # RLE Mini-Challenge
 test
 
